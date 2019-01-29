@@ -1,4 +1,84 @@
-img	{
+/*img	{
 	width: 80%;
 	height: 100%;
 }
+*/
+/***************************************************************
+Ideas from */
+ */
+/* UNIVERSAL STYLES: */
+html {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+/* WIREFRAME: */
+* {
+	/* background: rgba(0,0,0,0.1); */
+	/* border: 1px solid red; */
+}
+
+body {
+	width: 66%;
+	margin-left: 5rem;
+}
+
+/* Palette UID: 13O0u0kllll2XhDc9jvuxnbSap2 */
+/* PALLET:
+#042587
+#132E7D
+#2F4073
+#464E69
+#57595F
+*/
+
+/* HEADER: */
+
+.navbar {
+	height: 8rem;
+	font-family: "Oswald", sans-serif;
+	font-size: 2.5rem;
+}
+
+@media only screen and (max-width: 738px) {
+	.dropdown:hover>.dropdown-menu {
+		display: flex;
+		margin-left: 12rem;
+		margin-top: -4rem;
+	}
+
+	.dropdown-menu li {
+		text-align: right;
+	}
+}
+
+
+
+/* LANDING SECTION: */
+
+/* CONTENT SECTION: */
+main {
+	margin: 3rem;
+	color: #464E69;
+}
+
+.section-heading {
+	padding-top: 9rem;
+}
+
+/* this is required to override Bootstrap: */
+.heading {
+	font-family: "Oswald", sans-serif;
+}
+
+p {
+	font-family: "Raleway", sans-serif;
+}
+
+
+
+/* FOOTER */
