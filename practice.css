@@ -10,6 +10,7 @@ th,
 tr,
 td {
 	border: 3px solid purple;
+	border-collapse: collapse;
 }
 
 .table-headings {
