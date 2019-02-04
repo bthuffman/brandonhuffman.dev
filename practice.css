@@ -1,10 +1,8 @@
 img {
 	border: 2px solid #000;
 	border-radius: 10px;
-	max-height: 150px;
-	max-width: 200px;
-	width: 120px;
-	height: 120px;
+	max-height: 50%;
+	max-width: 50%;
 }
 
 .table-headings {
