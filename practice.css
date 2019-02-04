@@ -1,1 +1,8 @@
-img { border: 2px solid #000; border-radius: 10px; }
+img {
+	border: 2px solid #000;
+	border-radius: 10px;
+}
+
+.table-headings {
+	font: bold 1.2em Arial, Helvetica, sans-serif;
+}
