@@ -5,6 +5,11 @@ img {
 	max-width: 50%;
 }
 
+table {
+	border-collapse: collapse;
+	border: 3px solid purple;
+}
+
 .table-headings {
 	font: bold 1.2em Arial, Helvetica, sans-serif;
 }
