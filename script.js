@@ -9,6 +9,6 @@ let visualPercent = Math.round(visual/total*100);
 let auditoryPercent = Math.round(auditory/total*100);
 console.log("Auditory: " + auditoryPercent + "<br>" + "Visual: " + visualPercent + "<br>" + "Tactile: " + tactilePercent + "<br>");
 
-document.getElementById("tactile").innerHTML = tactilePercent.toString();
-document.getElementById("visual").innerHTML = visualPercent.toString();
-document.getElementById("auditory").innerHTML = auditoryPercent.toString();
+document.getElementById("tactile").innerText = tactilePercent.toString();
+document.getElementById("visual").innerText = visualPercent.toString();
+document.getElementById("auditory").innerText = auditoryPercent.toString();
