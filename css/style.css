@@ -78,7 +78,7 @@ p {
 }
 .image-bg {
 	background: linear-gradient(rgba(0, 119, 191, 0.75),rgba(0, 119, 191, 0.5)),
-	url("../Images/robot_2560x1600.jpg") no-repeat;
+	url("../images/robot_2560x1600.jpg") no-repeat;
 	background-size: cover;
 	/*Alternatively could have applied this to accomplishments section and then added fixed as a value to the background
 	property to get it to scroll with the whole page. May want to if text becomes too big!*/
