@@ -1,254 +1,341 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Brandon Huffman | Professional Development Document</title>
-		<link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto+Condensed" rel="stylesheet">
-		<link rel="stylesheet" href="css/style.css">
-		<script defer src="js/script.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>Brandon Huffman Full Stack Web Developer</title>
+		<!--Google Raleway font-->
+		<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+		<!-- Bootstrap core CSS-->
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Material Design Bootstrap -->
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/css/mdb.min.css" rel="stylesheet">
+		<!--My CSS-->
+		<link rel="stylesheet" href="styles/style.css">
+		<!--Font Awesome CSS-->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+		<!-- JQuery -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<!-- JQuery NOTE: This duplicate is required in order for both the hamburger button and the contact form's submit to work.-->
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<!--Bootstrap Scripts-->
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+				  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+				  crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+				  integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+				  crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+				  integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+				  crossorigin="anonymous"></script>
+		<!-- Bootstrap tooltips -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+		<!-- Bootstrap core JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+		<!-- MDB core JavaScript -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/js/mdb.min.js"></script>
+		<!--CONTACT FORM SCRIPTS-->
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+		<!-- form validate js -->
+		<script defer src="js/form-validate.js"></script>
+		<!-- Google reCAPTCHA -->
+		<script defer src='https://www.google.com/recaptcha/api.js'></script>
+		<!--My Typewriter Javascript Effect-->
+		<script src="js/script.js"></script>
 	</head>
-	<body>
-		<!-- // Intro -->
-		<header id="about" role="banner">
-			<nav class="fixed-nav-bar" role="navigation">
-				<a href="#about">Intro</a>
-				<a href="#details">Details</a>
-				<a href="#reflections">Boot Camp Log</a>
-				<a href="#contact">Contact</a>
-			</nav>
-			<div class="content-wrap">
-				<img class="profile-img col-narrow" src="images/resume-pic.png" alt="Brandon Huffman">
-				<div class="col-wide">
-					<h1 class="inline-text">Professional Development Document</h1>
-					<br/>
-					<h3>Last Update:</h3><p> 3/3/19</p>
-					<br/>
-					<h3>Career Buddy: </h3><p><a href="https://bootcamp-coders.cnm.edu/~jcallaway3/esl-teacher-promo/public_html/"> Hunter Callaway</a>.</p>
-					<br/>
-					<h2>Passion and Purpose </h2>
-					<br/>
-					<p class="about-me">Hi I'm Brandon, an aspiring Web Developer. I am building and learning all that I can about web based
-						programming languages and frameworks so that I can bring software based solutions to problems that affect
-						anyone from anywhere in world. I am very excited to be a part of a progressive community that is on the
-						bleeding edge of technology, strives to create innovative solutions to the world's challenges, and is creating
-						a future we can all believe in. </p>
-				</div>
-			</div>
-			<a href="brandon-huffman-resume-7.pdf" class="btn download" download>Download Brandon Huffman's Resume</a>
-		</header>
+<body>
 
-		<main role="main">
-			<div class="image-bg">
-				<section id="details">
-					<div class="content-wrap"><h2>Detailed Summary of Why, How and What </h2>
-						<div class="col-narrow">
-							<h3>Why</h3>
-						</div>
-						<div class="col-wide job-description">
-							<p>Computers and software provide excellent opportunities to connect our world in ways never before possible,
-								automate the mundane so that we can have more fulfilling lives, expand the extraordinary to create more
-								meaningful experiences, and reach for our highest potential.</p>
-						</div>
-						<div class="col-narrow">
-							<h3>How?</h3>
-						</div>
-						<div class="col-wide job-description">
-							<p>By learning the processes and elements of software development and creating applications and
-								sites that bring people together, streamline tasks, add value and provide a quality experience. </p>
-						</div>
-						<div class="col-narrow">
-							<h3>What?</h3>
-						</div>
-						<div class="col-wide job-description">
-							<p>Build software, applications and sites that expand opportunities and work toward a future that we can
-								all believe in.</p>
-						</div>
-					</div>
-					<div class="content-wrap"><h2>My Learning Style </h2>
-						<div class="col-narrow">
-							<h3>Breakdown:</h3>
-						</div>
-						<div class="col-wide job-description">
-							<ul>
-								<li>Visual: <span id="visual"></span>&#37;</li>
-								<li>Tactile: <span id="tactile"></span>&#37;</li>
-								<li>Auditory: <span id="auditory"></span>&#37;</li>
-							</ul>
-						</div>
-					</div>
-				</section>
-				<!-- Accomplishments -->
-				<section class="accomplishments">
-					<div class="content-wrap"><h2>Accomplishments</h2>
-						<h3>Quantitative Accomplishments</h3>
-						<ul>
-							<li>Organized, trained and certified dozens of Lifeguards and coaches in Red Cross First Aid and Water
-								Safety.
+	<!--Navigation Bar-->
+	<div class="first-cover-background">
+		<nav class="container-fluid navbar navbar-expand-lg navbar-light fixed-top bg-primary transparent-navigation">
+				<a class="navbar-brand text-white font-weight-bold">Brandon Huffman</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse_target">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="collapse_target">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a type="button" class="btn btn-primary mx-1" href="#About-Me">About Me</a>
+						</li>
+							<li class="nav-item">
+								<a type="button" class="btn btn-primary mx-1" href="#Skills">Skills</a>
 							</li>
-							<li>Designed an advertising and public outreach campaign that quintupled the number of athletes on New Mexico's
-								flagship Aquatic Center's swim team.
+							<li class="nav-item">
+								<a type="button" class="btn btn-primary mx-1" href="#Portfolio">Portfolio</a>
 							</li>
-							<li>Organized and processed 5 years of backdated corporate financial information into a tax filing and audit
-								ready format.
+							<li class="nav-item">
+								<a type="button" class="btn btn-primary mx-1" href="#Contact-Me">Contact Me</a>
 							</li>
 						</ul>
-						<h3>Qualitative Accomplishments</h3>
-						<ul>
-							<li> Detail Oriented: I thrive on organizing information and honing in on the factors that predict
-								relationships and outcomes. The draw back to this is that I can dwell so heavily on the details that I lose
-								sight of efficiency and necessity.
-							</li>
-							<li> Analytical: I aspire to approach most things with logic, relying less on intuition and feeling and
-								more on systematic deduction. Sometimes this facts-based approach can come off as insensitive and so empathy
-								has increasingly become important to how I deliver my findings.
-							</li>
-							<li> Critical Thinking: I work tirelessly to have a disciplined, rational and objective mindset. I have
-								found that focusing on solving problems can result in over-thinking and seeing problems where none exist or
-								blowing them out of proportion.
-							</li>
-						</ul>
-					</div>
-				</section>
-				<!-- Experience in tech -->
-				<section>
-					<div class="content-wrap"><h2>Experience in Tech</h2>
-						<img class="pro-dev-img" src="images/pro-dev-experience-in-tech.jpg" alt="Experience in Technology Diagram"/>
-					</div>
-				</section>
-			</div>
-		</main>
-
-		<section id="reflections">
-			<div class="content-wrap">		<h2>Reflections</h2>
-				<h3>Week [0]</h3>
-				<p>In my first week I learned about the basic outline of the course and began multiple project.
-					I learned about php, database design, mysql, and how to complete various javascript challenges
-					using critical thinking and online resources. I also started my Data Design project and connected it
-					to the Boot Camp sql database. I began my Personal Web Portfolio, Professional Development Website
-					and revamped and updated my resume.</p>
-				<h3>Week [1</h3>
-				<p>In my second week I digested tons of material on Object Oriented programing and PHP. We completed
-					Phase One and Two our Data Design project and started a new project titled "Object Oriented". I completed phase
-					one of the "Object Oriented" project on Saturday January 26th after much confusion over what exactly to do and
-					what elements applied to the project. Earlier in the week we created character relationships based on Star Trek
-					the Next Generation to further delineate on the dynamics of object oriented design. I also completed the first
-					part of my Professional Web Project and navigated through the solutions to the weeks snap challenges to gain a
-					greater understanding of JavaScript and PHP. I can't believe we're already two weeks in, time is flying!</p>
-				<h3>Week [2]</h3>
-				<p>In my third week we got our capstone assignments. I am particularly excited I got my first pick (local
-					art website) and that Will and Billy are my teammates. For the capstone we completed our site's vision and goal, user personas and their
-					stories, the wireframe and the initial data-design. We also had a really fun CSS challenge assigned and I
-					have essentially completed it, with almost no distinction between it and the target web design. We had a lot of
-					great guest speakers come in Friday who shared the artistic aspects of what you can do with software development. I
-					also was happy to have completed some of the snap challenges and was able to understand how it all worked together.
-					We also had an informative professional development workshop regarding our professional identity. I found out some interesting information about my online presence.
-					In the table below you'll see a summary of my findings:</p>
-				<br/>
-				<table>
-					<tr class="table-headings">
-						<th></th>
-						<th>Professional</th>
-						<th>Personal</th>
-					</tr>
-					<tr>
-						<td class="table-headings">Identity</td>
-						<td>Brandon Huffman, Brandon T Huffman</td>
-						<td>Brandon, Brando, Brand, and BHuff</td>
-					</tr>
-					<tr>
-						<td class="table-headings">Channels</td>
-						<td>GitHub and LinkedIn</td>
-						<td>Facebook, Instagram and Spotify</td>
-					</tr>
-					<tr>
-						<td class="table-headings">Content</td>
-						<td>Bookeeper, swim coach, lifeguard, accounting clerk, and aspiring developer </td>
-						<td>Athlete, loves nature, progressive poltical identity, and sparse online activity</td>
-					</tr>
-				</table>
-				<br/>
-				<p>Also learned about this nifty identity diamond which I want to keep in the back of my mind as I continue to
-					develop my own professional identity and streamline my online presence to match. </p>
-				<br/>
-				<img class="pro-dev-img" src="images/the-diamond-1-29-19.png" alt="picture of the pro-dev site's identity diamond"/>
-				<br/>
-				<br/>
-				<h3>Week [3]</h3>
-				<p>In this fourth week we had a lot of classroom time to work on our own stuff. Most of time was spent
-					working on our first tickets for the capstone project, completing the new bootstrap challenge and updating my
-					resume per Dan's recommendations. On monday we started off reviewing our CSS challenges from the week before.
-					Tuesday we had a pro-dev practicing team work and communication. Since we successfully won forbidden island I
-					would say that my team is very affective at providing each other feedback in a constructive non-judgemental way.
-					This was key as sometimes it was difficult for us to get on the same page, but through active listening and
-					working out the possible moves we arrived at victory! By Friday we met with small businesses in the tech
-					industry who were not only inspiring but also had a lot of great advice for us.</p>
-				<h3>Week [4]</h3>
-				<p>During our fifth week we worked tirelessly to get our capstone project's classes and corresponding tests set up
-					and executing successfully. Hard working and efficient we made a lot of progress. We also had two snap challenges one of which
-					I had prepared for the weekend before. I am glad to say I was successful in execution although my Monday snap solution was extremely verbose compared
-					to George's. We had a therapist come it and talk about mindfulness and urged us to help regain focus, self-esteem
-					and happiness through meditation and focusing on our breathing in tense situations. By Friday we had some
-					guest speakers from the GAP talk about using bots to automate financial operations and tasks. I was surprised to hear
-					more being done to automate accounting and other financial actions through bots rather than with machine learning.
-					Apparently machine learning really isn't that far along in comparison. Nick from Java also spoke which is always insightful. </p>
-				<br/>
-				<p>For pro-dev we learned a lot about the importance
-					of presenting/selling ourselves to potential employers in such a way that we show interest and value added for their company.
-					We do this by trapping (passive advertising, word of mouth) and hunting (going out into the community, making
-					connections, going out into the world).
-					A reoccurring theme is that small business (esp. start-ups) will want you to hit the ground running with higher
-					expectations than what might be realistic for some as first time developers. Another important aspect of this workshop
-					was to have goals of our own for our software development with paths in mind for how to achieve these goals. The
-					depth and variation of my goals goes beyond merely finding another job. I have a genuine interest in some specific development
-					application which hopefully will be useful/fun for others, but which are compelling regardless.
-					Please see my stovetop below for a more detail. More of the pro-dev activity/assignment will be posted below it. </p>
-				<h3>Stove Top: Progress Toward Goals</h3>
-				<img class="pro-dev-img" src="images/burner.jpg" alt="my-stove-top-for-the-future"/>
-				<p>Pro-Dev Activity</p>
-				<ol>
-					<li>Joined the Progressive Coders Network and talked with one of the founders (Stephen Scapelleti) about this technology
-						non-profit's work in the development and civic community. Their doing great things to bring the US up to date with
-						what is typical of modern democracies and developed countries (healthcare, unions and elections). </li>
-					<li> On the for profit side I would like to target RSI and interview
-						their hiring manager Mia Petersen. I have met with her before thanks to James and can follow up with her at (505)
-						218-8502 or her email mia.petersent@RuralSourcing.com.</li>
-					<li>My salary expectation are to make more than $15 an hour (equivalent of $30,000 a year) starting out.</li>
-					<li>I really
-						want to do work that will help me achieve my other stove-top items so I am unlikely to pursue something that shy's
-						away from web-development (my projects are intended to be accessible to the internet community). There is a new
-						framework (React Native) that makes mobile first programs usable for I-Phone (Swift) and Android (java) without having to write
-						the code in their respective languages. I would love a job specifically using similar software. </li>
-					<li> I plan/would love to follow up with an informational interview with BoomTime and RS21. </li>
-				</ol>
-				<br/>
-				<h3>Week [5]</h3>
-				<p>During our sixth week of Deep Dive we got a snow day during which I made a bunch of updates to my Personal Web Project. Yay! Also nearly completed the first tickets for our capstone. Big thanks to Billy, he has a keen eye for unit testing and fixing errors. When we came back to school on Wednesday we had a great field trip highlighting some local business useful to techies and entrepreneurs. We ended up at One Million cups and after the Surf School presented and a bunch of shout outs I got to speak to 6 different people! The first I spoke to was easy to approach since I already know him. Gus Liakos from Cohort 20 (same Cohort as James was in) is now a co-founder of Let's Get Together which aims to connect people to interesting events happening around town everyday kind of like the alibi, but with technology. I then spoke with Randy from a Data Analytics company. With my background in Economics and Accounting he encouraged me to look into Finance Tech as a career or data analytics. I would have gone to the Data Analytics conference that was Friday night later in the week if not for the considerable cost. I then lined up to speak to the surf school dude when I met Janice Biondo. She owns her own business meditative message business and needs help with her wordpress site. I volunteered to help her once I get out of the boot-camp. Looks like I am going to be learning Word Press! Then finally we both got to speak to the surf school guy Q.E.D. Quaid Tatlow. Can't get that image of Quaid on the surface of Mars from Total Recall out of my head now. Anyway apparently he is actually from California. After that I spoke with Bryan from Noventum. He got his masters in computer science so I was sure to ask him some questions about the different languages and frameworks. He told me php is very useful to learn and is similar to Java. However, he also said it's more typical for senior developers to work backend and php. That's a relief, jumping into php backend right away sounds really tough. Lastly I spoke to Ava who worked for the cancer cure group. She was as lively as she was in her presentation. She was really excited to hear about Crispr Cas9, a revolution in DNA re-sequencing that poses great potential for curring a whole host of diseases. We ended up talking so long I had to rush back to class!</p>
-				<p>On Thursday we had some open work time, followed by a lecture about Cookies and Rest. During openwork time I prepared for our first Assessment which was the following day. I think I did well on the Assessment, but we'll find out soon enough. After the assessment WEST, CNM Ingenuity, Fat Pipe and a previous Deep Dive grad all gave presentations. Very insightful! Hope you have a great week Dan and thanks for reading if you made it all the way down here!</p>
-				<h3>Week [6]</h3>
-				<p>Seventh week. I had a hard time sleeping this week, so it is somewhat of a blur. We  started our API set up and by the end of the week were close to completing API testing for our project. Specifically we need to get cloudinary set up or find a way to test our images without it. Billy took care of testing the Gallery class over the weekend, but can't pull the Gallery's out of the database... Strange. I have completed the outline of my PWP and added all of the content over this weekend. On Monday we got our Assessment Grades back, I am pretty pleased, though sad that it says I didn't successfully instantiate the object. I really thought I did! On Pro-Dev Friday we had a really cool field-trip, going to a data-center and getting presentations from various local data-centric software companies including the ever famous RS21. Visualising big data in a useful and attractive way is super interesting and insightful. I could use more data diagrams myself. Next week our PWP is due, we start Angular and we have interviews! It's going to be a busy week!</p>
-				<h3>Week [7]</h3>
-			<p>Eighth week. I had a better time sleeping this week during which we got as far as we could on our API testing. George will take a look at our project so we can start using Cloudinary. We also learned about Angular, very confusing honestly. We will be implementing that into our capstone projects.I'll be glad to learn more about it next week. On Wednesday we set up our domain hosted on digital ocean's servers via docker in putty. It was difficult adn George has had to work out a special method to getting a TLS for all of us who have a .dev site. On the plus side we get a whole tier up for having TLS. On Pro-Dev Friday we had our HR interviews with RSI. Everyone was very tense and seemed to struggle with the technical and HR interview. I am happy to say that I was excited to have them and got near perfect scores on both interviews. Paul from RSI liked me so much he asked me to apply! Going into our second to last week I need to get a new directory structure set up and follow the TLS instructions. </p>
-			</div>
-			<h3>Week [8]</h3>
-			<p>Ninth week. This week we made some serious progress on implementing Angular into our capstone. We had a lecture or two on it, but really it has been a learning experience in which we must search for the solutions to our projects very extensively before seeking aid. I got the TLS certificate for my website working on Tuesday. Today I was really excited to have the State of the Internet day for our pro-dev field trip. It was pretty interesting to hear from the experts on how exactly internet is delivered all across the United States. I think it's great that it is reaching the same tipping point that water, electricity, gas and telephone services did. These industries too went from being totally privatized and available to only a select few to being readily accessible to everyone. More investments in infrastructure are needed and then the classification of internet as a public utility will have to be solidified. </p>
-			</div>
-		</section>
-
-		<!-- // Footer & contact info -->
-		<footer id="contact" role="contentinfo">
-			<div class="content-wrap"><h2>Let's Keep in Touch!</h2>
-
-				<!-- Social media and contact links. Add or remove any networks. -->
-				<div class="contact-info">
-					<a href="https:www.brandonhuffman.dev" target="_blank">www.brandonhuffman.dev</a>
-					<a href="https://github.com/bthuffman" target="_blank"><i class="fab fa-github"></i></a>
-					<a href="https://www.linkedin.com/in/brandon-huffman-33686527/" target="_blank"><i class="fab fa-linkedin"></i></a>
 				</div>
+		</nav>
 
-				<p>Copyright 2018 by Brandon Huffman</p>
+		<!--Jumbotron-->
+		<div id="About-Me" class="container-fluid non-navbar-section">
+			<div class="jumbotron mt-5 mb-5">
+				<div class="empty col-12 mt-5 mb-5">invisible</div>
+				<div class="empty col-12 mt-4 mb-3">invisible</div>
+				<div class="d-flex justify-content-center">
+					<h1 class="text-wrap text-center font-weight-bold">Brandon Huffman</h1>
+				</div>
+				<div class="d-flex justify-content-center">
+					<h2 class="text-wrap text-center font-weight-bold">Web Developer | Web Designer</h2>
+				</div>
+				<div class="d-flex justify-content-center">
+					<h2 class="text-wrap text-center font-weight-bold">Contact Me</h2>
+				</div>
+				<div class="d-flex justify-content-center">
+					<a class="link-git-icons" type="link" href="https://www.linkedin.com/in/brandon-huffman-33686527/" target="_blank"><i class="fab fa-linkedin mr-2 h1"></i></a>
+					<a class="link-git-icons" type="link" href="https://github.com/bthuffman" target="_blank"><i class="fab fa-github h1 ml-2"></i></a>
+				</div>
+				<div class="empty col-12 mt-5 mb-3">invisible</div>
 			</div>
-		</footer>
-	</body>
+		</div>
+	</div>
+
+	<!--Tag Line-->
+	<div class="empty col-12 mt-4">invisible</div>
+	<div class="typewriterText container">
+		<span class="txt-type text-center mt-5" data-wait="3000" data-words='["Create","Augment","Repeat..."]'></span>
+	</div>
+	<div class="card p-3">
+		<div class="row d-flex text-center justify-content-center">
+			<div class="col-8 mb-4">I'm Brandon Huffman, a Web Developer whose versatile background gives me the skills I need to hit the ground running in the software industry. My experiences give me an edge in being adaptable and solving problems whether it be from creating non-profit organizations from the ground up, developing highly competitive athletes, bookkeeping for small businesses or building unique websites and databases. I love working with teams to construct the solutions and software they need to reach their goals and better their lives.</div>
+			<div id="Skills" class="empty col-12 mt-4">invisible</div>
+		</div>
+		<hr class="d-flex justify-content-center mx-auto mt-auto mb-4 text-black">
+	</div>
+
+	<!--Skills-->
+	<h2 class="mt-3 mb-4 text-center font-weight-bold">Skills </h2>
+	<div class="row mx-auto d-flex justify-content-center">
+		<div class="col-10 col-sm-6 col-md-5 col-lg-3">
+			<div class="card">
+				<div class="card-block">
+					<img class="img-fluid skills-img rounded-circle d-flex justify-content-center mx-auto mt-3 mb-5" src="images/detail-oriented.jpg" alt="Credit: 1ima.ru - magnifying glass image" title="Credit: 1ima.ru - magnifying glass image"/>
+					<div class="card-text m-3 text-center">
+						<h3>Detail Oriented</h3>
+						<p>From fine tuning swimmers technique, developing detailed training strategies, combing through financial statements, or sifting through 501(c)(3) laws, I am used to diving deep into the details where even the the most minute one can be crucial to success. </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-10 col-sm-6 col-md-5 col-lg-3">
+			<div class="card border-0">
+				<div class="card-block">
+					<img class="img-fluid skills-img rounded-circle d-flex justify-content-center mx-auto mt-3 mb-5" src="images/analytical.jpg" alt="Credit: CRMneeds.com - data analytics image" title="Credit: CRMneeds.com - data analytics image"/>
+					<div class="card-text m-3 text-center">
+						<h3>Analytical</h3>
+						<p>I've developed strong problem solving skills from forecasting the economy for my bachelors degree, evaluating sports teams strengths and weaknesses in coaching, and finding ways to communicate meaningfully with clients to benefit their business.  </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-10 col-sm-6 col-md-5 col-lg-3 ">
+			<div class="card border-0">
+				<div class="card-block">
+					<img class="img-fluid skills-img rounded-circle d-flex justify-content-center mx-auto mt-3 mb-5" src="images/programming.jpg" alt="Credit: deskgram.net - computer programing image" title="Credit: deskgram.net - computer programing image"/>
+					<div class="card-text m-3 text-center">
+						<h3>Web Developer</h3>
+						<p>Thanks to my recent graduation from the Deep Dive Coding Full Stack Web Development boot camp my knowledge has expanded to include all the programming languages I need to build websites and databases. I've ranked them below from my strongest to weakest (left to right).</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row d-flex justify-content-center mb-0">
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/html-5.png" alt="Credit: pragtob.files.wordpress.com - HTML5 Logo" title="Credit: pragtob.files.wordpress.com - HTML5 Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/css-3.png" alt="Credit: developer.mozilla.org CSS Three Logo" title="Credit: developer.mozilla.org - CSS Three Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/bootstrap.png" alt="Credit: phpdeveloperszone.com - Bootstrap 4 Logo" title="Credit: phpdeveloperszone.com - Bootstrap 4 Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/es6.png" alt="Credit: Zink.com - ECMA Script 6 Logo" title="Credit: Zink.com - ECMA Script 6 Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/mysql.png" alt="Credit: appstore.edgenexus.io - MySQL Logo" title="Credit: appstore.edgenexus.io - MySQL Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/php.png" alt="Credit: blackbean.com.br - PHP Logo" title="Credit: blackbean.com.br - PHP Logo"/>
+		<img class="language-icon img-fluid  mx-3 mt-3 mb-5" src="images/angular.png" alt="Credit: iconscout.com - Angular icon" title="Credit: iconscout.com - Angular icon"/>
+	</div>
+	<div id="Portfolio" class="empty col-12">invisible</div>
+
+	<!--Portfolio-->
+	<div class="container mb-5">
+	<div class="card p-3 portfolio-bg text-white mt-5">
+		<div class="row align-items-center">
+			<div class="mt-5 mb-5 text-center col-12">
+				<h2 class="font-weight-bold">Portfolio</h2>
+			</div>
+			<div class="col-0 col-md-1"></div>
+		</div>
+		<div>
+			<a class="col-12 d-flex justify-content-center mx-auto mt-auto mb-3" href="https://www.youtube.com/watch?v=FGb0iIBTwaI" target="_blank">
+				<img class="web-project" src="images/art-haus.png" alt="Credit: Will Tredway - Corhort 23 of Deep Dive Coding Boot Camp" title="Credit: Will Tredway - Corhort 23 of Deep Dive Coding Boot Camp"/>
+			</a>
+			<h3 class="col-12 d-flex justify-content-center m-auto text-center"><a class="text-white" href="https://www.youtube.com/watch?v=FGb0iIBTwaI" target="_blank">the-arts-haus.org</a></h3>
+			<div class="row col-8 d-flex justify-content-center mx-auto mt-auto mb-5 text-center">A website designed to support the local ABQ art community and help users find local art and artists that interest them!</div>
+			<div class="col-0 col-md-1"></div>
+		</div>
+		<div>
+			<a class="col-12 d-flex justify-content-center mx-auto mt-5 mb-4" href="https://bthuffman.github.io/what-it-means-to-be-british" target="_blank">
+				<img class="web-project" src="images/what-it-means-to-be-british.png" alt="Picture of Brandon's British Bootsrap landing page" title="Brandon's British Bootsrap landing page"/>
+			</a>
+			<h3 class="col-12 d-flex justify-content-center m-auto text-center"><a class="text-white" href="https://bthuffman.github.io/what-it-means-to-be-british" target="_blank">What it Means to be British</a></h3>
+			<div class="row col-8 d-flex justify-content-center mx-auto mt-auto mb-5 text-center">A site including a brief history of the British that showcases how I can quickly build an attractive websites just using Bootstrap.</div>
+			<div class="col-0 col-md-1"></div>
+		</div>
+		<div>
+			<a class="col-12 d-flex justify-content-center mx-auto mt-5 mb-3" href="https://bthuffman.github.io/" target="_blank">
+				<img class="web-project" src="images/pro-dev-site.png" alt="Picture of Brandon's professional development site" title="Picture of Brandon's professional development site"/>
+			</a>
+			<h3 class="col-12 d-flex justify-content-center m-auto text-center"><a class="text-white" href="https://bthuffman.github.io/" target="_blank">Professional Development</a></h3>
+			<div class="row col-8 d-flex justify-content-center mx-auto mt-auto mb-5 text-center">My professional development site that includes more details about me and my weekly reflections for the Deep Dive Fullstack Web boot camp. </div>
+			<div class="col-0 col-md-1"></div>
+		</div>
+		<div>
+			<div class="col-12 d-flex justify-content-center mx-auto mt-5 mb-3">
+				<img class="web-project" src="images/choice-app.jpg" alt="Credit: skillsyouneed.com - picture of decision process"/>
+			</div>
+			<h3 class="col-12 d-flex justify-content-center m-auto text-center">Choice App</h3>
+			<div class="row col-8 d-flex justify-content-center mx-auto mt-auto mb-5 text-center">In development, but once completed it will help users break down complex problems into a list of priorities, rate them by how they will affect their lives, and then use an algorithm to score their options. Inspired by the now privatized ChoiceMap app. Decision making is critical to everyone so it's use case is global!</div>
+			<div class="col-0 col-md-1"></div>
+		</div>
+		<a type="button" class="btn btn-primary ml-auto col-12 col-md-4" href="images/brandon-huffman-resume-7.pdf" download>Download Brandon's Resume</a>
+	</div>
+	</div>
+	<div class="empty col-12 mt-4 mb-3">invisible</div>
+
+	<!--Portfolio: Job Experience-->
+	<div id="carouselExampleIndicators" class="carousel slide carousel-background mt-5" data-ride="carousel">
+		<ol class="carousel-indicators">
+			<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+			<li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+		</ol>
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center col-12 col-md-5 align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Bookkeeper Atkinson CPA's</p>
+						<p>As a bookkeeper for multiple clients I oversaw payroll, processed tax payments and created periodic financial statements based on business transactions and accounts.</p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center ol-12 col-md-5  align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Bookkeeper Duke City Aquatics</p>
+						<p>In charge of business records, compliance and payments. Created their 501(c)(3) DCA Charitable Foundation and brought 5-years of backlogged financials into compliance for corporate tax filing.</p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center col-12 col-md-5  align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Instructor & Clerk Fish Factory Swim School</p>
+						<p>Taught hundreds of children and adults how to swim. Managed lessons weekly and handled front-desk duties and interactions with clients.</p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center col-12 col-md-5  align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Head Coach Tanoan Country Club Swim Team</p>
+						<p>Prepared training workouts, lead competitions and implemented team strategies for the 12 & Under group. Our group scored so much for the team that we went from 3rd place the year before to 2nd at Championships. </p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center col-12 col-md-5 align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Head Coach West Mesa Piranhas</p>
+						<p>Raised thousands of dollars in fundraising, quintupled team size, reorganized practices to maximize coach to athlete ratios and training. Went from a 19 athlete team scoring 12th at Championships to a 84 athlete team taking 4th. </p>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<div class="text-white mt-5">
+					<div class="row mx-auto d-flex justify-content-center text-center col-12 col-md-5 align-items-center mt-5 mb-4">
+						<p class="mb-3 p-0 carousel-job-title-text">Head Guard West Mesa Aquatic Center</p>
+						<p>Supervised a staff of 50 plus lifeguards, led emergency training scenarios, maintained pool chemistry and equipment,
+						and certified dozens of lifeguards in American Red Cross 1st Aid and CPR.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="glyphicon glyphicon-chevron-left">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="glyphicon glyphicon-chevron-right">Next</span>
+		</a>
+	</div>
+	<div id="Contact-Me" class="empty col-12 mt-5 mb-4">invisible</div>
+
+	<!--Contact Me-->
+	<div class="container px-5 my-5 bg-success">
+		<h2 class="text-center pt-5"> Interested in collaborating? </h2>
+		<h3 class="text-center">Contact Me</h3>
+		<div class="row">
+			<div class="col-md-12 mb-md-0 mb-5 mt-3">
+				<form id="contact-form" name="contact-form" action="php/index.php" method="POST">
+					<div class="row">
+						<div class="col-md-6">
+							<label class="font-weight-bold text-uppercase mb-0" for="name">Name<span class="text-danger">*</span></label>
+							<div class="my-0">
+								<div class="input-group-prepend">
+									<span class="input-group-text"><i class="fa fa-user"></i></span>
+									<input type="text" id="name" name="name" class="form-control" placeholder="Your name"><br/>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<label class="font-weight-bold text-uppercase mb-0" for="email">Email<span class="text-danger">*</span></label>
+							<div class="my-0">
+								<div class="input-group-prepend">
+									<span class="input-group-text"><i class="fa fa-envelope"></i></span>
+									<input type="email" id="email" name="email" class="form-control" placeholder="Your email"><br/>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 mt-3">
+							<label class="font-weight-bold text-uppercase mb-0" for="message">Message<span class="text-danger">*</span></label>
+							<div class="md-form mt-0">
+								<textarea id="message" name="message" rows="2" class="form-control md-text pr-1 bg-white" placeholder="Your message"></textarea>
+							</div>
+						</div>
+					</div>
+					<!--					THIS RECAPTCHA IS REQUIRED BEFORE THE SUBMIT BUTTON TO WORK-->
+					<div class="g-recaptcha px-3" data-sitekey="6LfVEpQUAAAAALLJc7c9Ab3iM78_MmDDG5sBIm3-"></div>
+					<div class="text-center text-md-left mb-5 mt-3">
+						<button type="submit" class="btn btn-primary ml-3">Send</button>
+					</div>
+					<div class="status"></div>
+				</form>
+				<div class="row">
+					<div class="col-12">
+						<div id="output-area"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="empty col-12 mt-4 mb-3">invisible</div>
+
+	<!--Footer-->
+	<div class="footer-copyright text-center mt-5 py-3 bg-primary text-light">© 2019
+		<a class="text-light" href="https://bootcamp-coders/~bhuffman1/"> Brandon Huffman - Web Developer</a>
+		<div class="d-flex justify-content-center">
+			<a class="text-white" type="link" href="https://www.linkedin.com/in/brandon-huffman-33686527/" target="_blank"><i class="fab fa-linkedin mr-2 h1"></i></a>
+			<a class="text-white" type="link" href="https://github.com/bthuffman" target="_blank"><i class="fab fa-github h1 ml-2"></i></a>
+		</div>
+	</div>
+</body>
 </html>

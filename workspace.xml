@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1791d7a-f010-4bc2-8e6b-63d03901184d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4646">
+              <caret line="202" column="87" selection-start-line="202" selection-start-column="87" selection-end-line="202" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/production.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>analytica</find>
+      <find>analytical.</find>
+      <find>im</find>
+      <find>carousel-background</find>
+      <find>canyon</find>
+      <find>&lt;img</find>
+      <find>lake</find>
+      <find>font-family</find>
+      <find>rem</find>
+      <find>sans</find>
+      <find>font</find>
+      <find>type</find>
+      <find>what it means</find>
+      <find>about me</find>
+      <find>@media</find>
+      <find>create</find>
+      <find>button</find>
+      <find>hr</find>
+      <find>&lt;hr</find>
+      <find>txt</find>
+      <find>link-git-</find>
+      <find>brandon-huffman</find>
+      <find>img</find>
+      <find>uss-hopper.site</find>
+      <find>arlo.meow</find>
+      <find>action</find>
+      <find>EXPOSE 80</find>
+      <find>index</find>
+      <find>art</find>
+      <find>brandonhuffman.dev</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>textarea</replace>
+      <replace>input-group</replace>
+      <replace>contactEmail</replace>
+      <replace>contactMessage</replace>
+      <replace>contactName</replace>
+      <replace>col-4</replace>
+      <replace>font-weight-bold</replace>
+      <replace>mx-auto mt-auto mb-5</replace>
+      <replace>row col-8</replace>
+      <replace>brandonhuffman.dev</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2-style.css" />
+        <option value="$PROJECT_DIR$/public_html/style/style.css" />
+        <option value="$PROJECT_DIR$/public_html/documentation/style/style.css" />
+        <option value="$PROJECT_DIR$/public_html/documentation/BRANDON'S NOTES" />
+        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2b-style.css" />
+        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2b.php" />
+        <option value="$PROJECT_DIR$/public_html/BRANDON'S NOTES" />
+        <option value="$PROJECT_DIR$/public_html/php/composer.json" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/public_html/php/php-form-mailer.php" />
+        <option value="$PROJECT_DIR$/public_html/php/mailer.php" />
+        <option value="$PROJECT_DIR$/public_html/js/form-validate.js" />
+        <option value="$PROJECT_DIR$/public_html/styles/cardslider.css" />
+        <option value="$PROJECT_DIR$/DELETE.html" />
+        <option value="$PROJECT_DIR$/public_html/card-slider.php" />
+        <option value="$PROJECT_DIR$/public_html/styles/bootstrap.css" />
+        <option value="$PROJECT_DIR$/carousel.php" />
+        <option value="$PROJECT_DIR$/carousel.html" />
+        <option value="$PROJECT_DIR$/public_html/styles/carousel.css" />
+        <option value="$PROJECT_DIR$/public_html/documentation/carousel.html" />
+        <option value="$PROJECT_DIR$/public_html/documentation/test.html" />
+        <option value="$PROJECT_DIR$/public_html/php/mail-config.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xhtml" />
+        <option value="$PROJECT_DIR$/public_html/index.html" />
+        <option value="$PROJECT_DIR$/public_html/styles/practice.css" />
+        <option value="$PROJECT_DIR$/public_html/documentation/index.html" />
+        <option value="$PROJECT_DIR$/public_html/documentation/TYPEWRITE.html" />
+        <option value="$PROJECT_DIR$/public_html/js/TYPEWRITER.js" />
+        <option value="$PROJECT_DIR$/public_html/styles/TYPEWRITER.css" />
+        <option value="$PROJECT_DIR$/public_html/js/script.js" />
+        <option value="$PROJECT_DIR$/public_html/styles/style.css" />
+        <option value="$PROJECT_DIR$/public_html/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/.dockerignore" />
+        <option value="$PROJECT_DIR$/dockerfile" />
+        <option value="$PROJECT_DIR$/public_html/Dockerfile" />
+        <option value="$PROJECT_DIR$/production/.dockerignore" />
+        <option value="$PROJECT_DIR$/production/php/Dockerfile" />
+        <option value="$PROJECT_DIR$/production/html/Dockerfile" />
+        <option value="$PROJECT_DIR$/production/production.conf" />
+        <option value="$PROJECT_DIR$/production/html/index.php" />
+        <option value="$PROJECT_DIR$/production/php/mailer.php" />
+        <option value="$PROJECT_DIR$/production/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/nginx.conf" />
+        <option value="$PROJECT_DIR$/php/Dockerfile" />
+        <option value="$PROJECT_DIR$/production.conf" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="785" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="personal-website-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-website-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XHTML" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/quotespire" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="com.intellij.application.options.CodeStyleSchemesConfigurable" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\production" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\php" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\images" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\documentation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml.frontend: Compose Deployment">
+    <configuration name="docker-compose.yml.frontend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="frontend" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="production.backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="backend" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="production/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.frontend: Compose Deployment" />
+        <item itemvalue="Docker.production.backend: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\deepdive\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1791d7a-f010-4bc2-8e6b-63d03901184d" name="Default Changelist" comment="" />
+      <created>1548260404200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548260404200</updated>
+      <workItem from="1548260405924" duration="7419000" />
+      <workItem from="1548366918619" duration="7000" />
+      <workItem from="1548720934830" duration="32000" />
+      <workItem from="1548720978104" duration="13959000" />
+      <workItem from="1549237696250" duration="14463000" />
+      <workItem from="1549334336874" duration="3858000" />
+      <workItem from="1549745223339" duration="96000" />
+      <workItem from="1550527193025" duration="30700000" />
+      <workItem from="1550803026381" duration="794000" />
+      <workItem from="1551130399132" duration="39028000" />
+      <workItem from="1551293143900" duration="590000" />
+      <workItem from="1551302362922" duration="8751000" />
+      <workItem from="1551392473322" duration="47996000" />
+      <workItem from="1551630732058" duration="21217000" />
+      <workItem from="1551823324478" duration="953000" />
+      <workItem from="1551839012584" duration="5984000" />
+      <workItem from="1551888473778" duration="714000" />
+      <workItem from="1551895780852" duration="34072000" />
+      <workItem from="1552162159597" duration="1705000" />
+      <workItem from="1552164705089" duration="5792000" />
+      <workItem from="1552313869318" duration="11216000" />
+      <workItem from="1552401589812" duration="444000" />
+      <workItem from="1552404979705" duration="5196000" />
+      <workItem from="1557270228869" duration="3092000" />
+      <workItem from="1557537321675" duration="90000" />
+      <workItem from="1557871522252" duration="1187000" />
+      <workItem from="1558368881990" duration="1311000" />
+      <workItem from="1560811079198" duration="828000" />
+      <workItem from="1560812675469" duration="2943000" />
+    </task>
+    <task id="LOCAL-00043" summary="Added the contact form backend components based on the in class tutorial.">
+      <created>1551196954036</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1551196954036</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added the javascript file, completed portions of the mailer.php, and added a name for the action attribute in the index.php">
+      <created>1551203979404</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1551203979404</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Added the remaining text for the mailer.php">
+      <created>1551212211395</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1551212211395</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Various changes to make the contact form work. It says sending email successfully, but I don't receive it.">
+      <created>1551218057697</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1551218057697</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Various aesthetic changes to contact form work. It says sending email successfully, but I still don't receive it.">
+      <created>1551225154797</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1551225154797</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Now receiving emails. All I knowingly did was change my email address from msn to gmail... Change more styles on the contact form.">
+      <created>1551231601587</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1551231601587</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Now receiving emails if all fields filled out, no errors if don't fill out the name and message content, but also doesn't send email though it says it does.">
+      <created>1551303082686</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1551303082686</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Emails and errors working well!">
+      <created>1551392911474</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1551392911474</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Playing with the carousel">
+      <created>1551400868171</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1551400868171</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Playing with the carousel">
+      <created>1551403776379</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1551403776379</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Playing with the carousel">
+      <created>1551406611393</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1551406611393</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Adjusting various carousel settings, styles and formats.">
+      <created>1551411232501</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1551411232501</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Adjusting various carousel settings, styles and formats. Playing with how to fix the hamburger menu items not collapsing on click.">
+      <created>1551464753347</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1551464753347</updated>
+    </task>
+    <task id="LOCAL-00056" summary="For unknown reason's had to revert back to most of the html from the last commit on Feb 28th, except for the carousel which was pulled from this morning March 1st.">
+      <created>1551496479645</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1551496479645</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Finally got the contact form and the navbar hamburger button to work (previous solutions allowed only one or the other).">
+      <created>1551499191464</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1551499191464</updated>
+    </task>
+    <task id="LOCAL-00058" summary="This solution for the hamburger vs contact form problem allows the scripts to stay in the head of the document but defer them as if they were located right before the closing body tag.">
+      <created>1551499327411</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1551499327411</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Changes to the nav bar, jumbotron, tagline and skills section.">
+      <created>1551562693593</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1551562693593</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Adding content to my portfolio section.">
+      <created>1551573284566</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1551573284566</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Found email vs hamburger button issue... Again!">
+      <created>1551582034353</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1551582034353</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Fixed hamburger button vs contact form submit to my email issue.">
+      <created>1551582366090</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1551582366090</updated>
+    </task>
+    <task id="LOCAL-00063" summary="New pictures and title links for the projects">
+      <created>1551640975753</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1551640975754</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Updating pro-dev site which will be linked to here. Added social media links to the footer. Added resume link to end of the projects.">
+      <created>1551641002617</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1551641002617</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Added image for the choice-app site. Deleted zombie code from CSS and added colors to specific and generic links. Added a container with background to the contact me section. Changed the destination of the nav bar links.">
+      <created>1551646192992</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1551646192992</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Finished the job carousel, added media queries to the portfolio images and resume button and changed some html here and there.">
+      <created>1551653000114</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1551653000114</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Links open on seperate page">
+      <created>1551653450312</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1551653450312</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Playing with typewriter effects">
+      <created>1551656971772</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1551656971772</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Eliminated typewriting effect in html and changed contact form to normal case for heading">
+      <created>1551657088418</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1551657088418</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Got rid of the pause-hover on carousel, it pauses without. Adjusted some of the text content, and playing with navbar's margins to eliminate horizontal scroll">
+      <created>1551839270636</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1551839270636</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Adjusted the class row default margin setting to eliminate the horizontal scroll. Moved container class inside the nav element.">
+      <created>1551843333293</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1551843333293</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Styled the navbar hamburger button. Set some padding on the recaptcha and margin on the send button to align the contact form elements.">
+      <created>1551844488313</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1551844488313</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Got rid of redundant ul tags in the nav">
+      <created>1551844871125</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1551844871125</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Added credit to all images used. Also added Angular icon.">
+      <created>1551908690110</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1551908690111</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Testing the fade in effect.">
+      <created>1551912020173</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1551912020174</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Created the typewriter effect and added a font-family for all body text.">
+      <created>1551930732430</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1551930732431</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Changed the typewriter font size, adjusted the bootstrap 4 icon so not squeezed, adjusted text alignment in portfolio section.">
+      <created>1551979349482</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1551979349482</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Changed the typewriter font size, adjusted the bootstrap 4 icon so not squeezed, adjusted text alignment in portfolio section. Corrected one case of inline styling.">
+      <created>1551998007984</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1551998007984</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Changed box shadow for nav buttons, changed the webkit appearance css, completed the doc blocks for javascript">
+      <created>1552000500455</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1552000500455</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Minor adjustments to parent and child element alignments. Got rid of the 'zombie' webkit css which made buttons not look less cool.">
+      <created>1552001671297</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1552001671297</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Re-added the webkit appearance css due to improved appearance on the most used developed world's mobile browser, Safari. Also edited the words for the typewriter back to my original with some periods thrown in.">
+      <created>1552018044955</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1552018044960</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Updated the directory structure, added several Docker.files, new text to many of the weird files (yml, composer etc.)">
+      <created>1552167979881</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1552167979881</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Updated the directory structure, added several Docker.files, new text to many of the weird files (yml, composer etc.)">
+      <created>1552324569024</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1552324569024</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Minor changes to files for getting the tls">
+      <created>1552338829635</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1552338829635</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Minor changes to files for getting the tls">
+      <created>1557270615959</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1557270615961</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Minor changes to files for getting the tls">
+      <created>1557271135792</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1557271135792</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Minor changes to update links to relevant websites.">
+      <created>1557272379923</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1557272379923</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Minor typo">
+      <created>1557272564520</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1557272564521</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Minor typo">
+      <created>1557537404194</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1557537404194</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Updates to get letsencrypt working again.">
+      <created>1560895057037</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1560895057037</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Updates to get letsencrypt https site working again.">
+      <created>1560895472762</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1560895472762</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="264437000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.25774226" />
+      <window_info active="true" anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.4433121" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30700636" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3291506" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../typescript-practice.git/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New pictures and title links for the projects" />
+    <MESSAGE value="Updating pro-dev site which will be linked to here. Added social media links to the footer. Added resume link to end of the projects." />
+    <MESSAGE value="Added image for the choice-app site. Deleted zombie code from CSS and added colors to specific and generic links. Added a container with background to the contact me section. Changed the destination of the nav bar links." />
+    <MESSAGE value="Finished the job carousel, added media queries to the portfolio images and resume button and changed some html here and there." />
+    <MESSAGE value="Links open on seperate page" />
+    <MESSAGE value="Playing with typewriter effects" />
+    <MESSAGE value="Eliminated typewriting effect in html and changed contact form to normal case for heading" />
+    <MESSAGE value="Got rid of the pause-hover on carousel, it pauses without. Adjusted some of the text content, and playing with navbar's margins to eliminate horizontal scroll" />
+    <MESSAGE value="Adjusted the class row default margin setting to eliminate the horizontal scroll. Moved container class inside the nav element." />
+    <MESSAGE value="Styled the navbar hamburger button. Set some padding on the recaptcha and margin on the send button to align the contact form elements." />
+    <MESSAGE value="Got rid of redundant ul tags in the nav" />
+    <MESSAGE value="Added credit to all images used. Also added Angular icon." />
+    <MESSAGE value="Testing the fade in effect." />
+    <MESSAGE value="Created the typewriter effect and added a font-family for all body text." />
+    <MESSAGE value="Changed the typewriter font size, adjusted the bootstrap 4 icon so not squeezed, adjusted text alignment in portfolio section." />
+    <MESSAGE value="Changed the typewriter font size, adjusted the bootstrap 4 icon so not squeezed, adjusted text alignment in portfolio section. Corrected one case of inline styling." />
+    <MESSAGE value="Changed box shadow for nav buttons, changed the webkit appearance css, completed the doc blocks for javascript" />
+    <MESSAGE value="Minor adjustments to parent and child element alignments. Got rid of the 'zombie' webkit css which made buttons not look less cool." />
+    <MESSAGE value="Re-added the webkit appearance css due to improved appearance on the most used developed world's mobile browser, Safari. Also edited the words for the typewriter back to my original with some periods thrown in." />
+    <MESSAGE value="Updated the directory structure, added several Docker.files, new text to many of the weird files (yml, composer etc.)" />
+    <MESSAGE value="Minor changes to files for getting the tls" />
+    <MESSAGE value="Minor changes to update links to relevant websites." />
+    <MESSAGE value="Minor typo" />
+    <MESSAGE value="Updates to get letsencrypt working again." />
+    <MESSAGE value="Updates to get letsencrypt https site working again." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates to get letsencrypt https site working again." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1-style.css" />
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2-style.css" />
+    <entry file="file://$PROJECT_DIR$/DELETE.html" />
+    <entry file="file://$PROJECT_DIR$/public_html/styles/cardslider.css" />
+    <entry file="file://$PROJECT_DIR$/public_html/styles/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/public_html/card-slider.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/test.html" />
+    <entry file="file://$PROJECT_DIR$/public_html/styles/carousel.css" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/pond.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/lake-tahoe.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/dock.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/code-b;-transparent-2-black.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/detail-oriented.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/bootstrap-4.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/programming.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/analytical.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/php.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/mysql.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/carousel.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xhtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/images/angular.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/art-haus.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/canyon.jpg" />
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/TYPEWRITE.html" />
+    <entry file="file://$PROJECT_DIR$/public_html/js/TYPEWRITER.js" />
+    <entry file="file://$PROJECT_DIR$/public_html/styles/TYPEWRITER.css" />
+    <entry file="file://$PROJECT_DIR$/public_html/images/bootstrap.png" />
+    <entry file="file://$PROJECT_DIR$/public_html/index.php" />
+    <entry file="file://$PROJECT_DIR$/public_html/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/public_html/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/public_html/js/form-validate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" selection-start-line="5" selection-start-column="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#174#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mail-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret column="168" selection-start-column="168" selection-end-column="168" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4646">
+          <caret line="202" column="87" selection-start-line="202" selection-start-column="87" selection-end-line="202" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

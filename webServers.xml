@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="81faa225-d16e-4a5b-882f-8c4b8799b791" name="brandonhuffman.dev" url="http://178.128.78.246">
+        <fileTransfer host="178.128.78.246" port="22" rootFolder="/home/bhuff/pwp" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
