@@ -28,7 +28,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4646">
               <caret line="202" column="87" selection-start-line="202" selection-start-column="87" selection-end-line="202" selection-end-column="87" />
@@ -37,7 +37,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2.php">
+        <entry file="file://$PROJECT_DIR$/documentation/milestone-2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
@@ -46,7 +46,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1.php">
+        <entry file="file://$PROJECT_DIR$/documentation/milestone-1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
               <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
@@ -91,7 +91,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/Dockerfile">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -158,47 +158,47 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2-style.css" />
-        <option value="$PROJECT_DIR$/public_html/style/style.css" />
-        <option value="$PROJECT_DIR$/public_html/documentation/style/style.css" />
-        <option value="$PROJECT_DIR$/public_html/documentation/BRANDON'S NOTES" />
-        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2b-style.css" />
-        <option value="$PROJECT_DIR$/public_html/documentation/milestone-2b.php" />
-        <option value="$PROJECT_DIR$/public_html/BRANDON'S NOTES" />
-        <option value="$PROJECT_DIR$/public_html/php/composer.json" />
+        <option value="$PROJECT_DIR$/documentation/milestone-2-style.css" />
+        <option value="$PROJECT_DIR$/style/style.css" />
+        <option value="$PROJECT_DIR$/documentation/style/style.css" />
+        <option value="$PROJECT_DIR$/documentation/BRANDON'S NOTES" />
+        <option value="$PROJECT_DIR$/documentation/milestone-2b-style.css" />
+        <option value="$PROJECT_DIR$/documentation/milestone-2b.php" />
+        <option value="$PROJECT_DIR$/BRANDON'S NOTES" />
+        <option value="$PROJECT_DIR$/php/composer.json" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/public_html/php/php-form-mailer.php" />
-        <option value="$PROJECT_DIR$/public_html/php/mailer.php" />
-        <option value="$PROJECT_DIR$/public_html/js/form-validate.js" />
-        <option value="$PROJECT_DIR$/public_html/styles/cardslider.css" />
+        <option value="$PROJECT_DIR$/php/php-form-mailer.php" />
+        <option value="$PROJECT_DIR$/php/mailer.php" />
+        <option value="$PROJECT_DIR$/js/form-validate.js" />
+        <option value="$PROJECT_DIR$/styles/cardslider.css" />
         <option value="$PROJECT_DIR$/DELETE.html" />
-        <option value="$PROJECT_DIR$/public_html/card-slider.php" />
-        <option value="$PROJECT_DIR$/public_html/styles/bootstrap.css" />
+        <option value="$PROJECT_DIR$/card-slider.php" />
+        <option value="$PROJECT_DIR$/styles/bootstrap.css" />
         <option value="$PROJECT_DIR$/carousel.php" />
         <option value="$PROJECT_DIR$/carousel.html" />
-        <option value="$PROJECT_DIR$/public_html/styles/carousel.css" />
-        <option value="$PROJECT_DIR$/public_html/documentation/carousel.html" />
-        <option value="$PROJECT_DIR$/public_html/documentation/test.html" />
-        <option value="$PROJECT_DIR$/public_html/php/mail-config.php" />
+        <option value="$PROJECT_DIR$/styles/carousel.css" />
+        <option value="$PROJECT_DIR$/documentation/carousel.html" />
+        <option value="$PROJECT_DIR$/documentation/test.html" />
+        <option value="$PROJECT_DIR$/php/mail-config.php" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.xhtml" />
-        <option value="$PROJECT_DIR$/public_html/index.html" />
-        <option value="$PROJECT_DIR$/public_html/styles/practice.css" />
-        <option value="$PROJECT_DIR$/public_html/documentation/index.html" />
-        <option value="$PROJECT_DIR$/public_html/documentation/TYPEWRITE.html" />
-        <option value="$PROJECT_DIR$/public_html/js/TYPEWRITER.js" />
-        <option value="$PROJECT_DIR$/public_html/styles/TYPEWRITER.css" />
-        <option value="$PROJECT_DIR$/public_html/js/script.js" />
-        <option value="$PROJECT_DIR$/public_html/styles/style.css" />
-        <option value="$PROJECT_DIR$/public_html/index.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/practice.css" />
+        <option value="$PROJECT_DIR$/documentation/index.html" />
+        <option value="$PROJECT_DIR$/documentation/TYPEWRITE.html" />
+        <option value="$PROJECT_DIR$/js/TYPEWRITER.js" />
+        <option value="$PROJECT_DIR$/styles/TYPEWRITER.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/.dockerignore" />
         <option value="$PROJECT_DIR$/dockerfile" />
-        <option value="$PROJECT_DIR$/public_html/Dockerfile" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/production/.dockerignore" />
         <option value="$PROJECT_DIR$/production/php/Dockerfile" />
         <option value="$PROJECT_DIR$/production/html/Dockerfile" />
         <option value="$PROJECT_DIR$/production/production.conf" />
-        <option value="$PROJECT_DIR$/production/html/index.php" />
+        <option value="$PROJECT_DIR$/production/html/index.html" />
         <option value="$PROJECT_DIR$/production/php/mailer.php" />
         <option value="$PROJECT_DIR$/production/docker-compose.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -231,8 +231,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="personal-website-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-website-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bthuffman.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bthuffman.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,14 +259,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project" />
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\production" />
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\php" />
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\images" />
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\documentation" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io\production" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io\php" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io\images" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io\documentation" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\personal-website-project\public_html\images" />
+      <recent name="C:\Users\bhuff\Desktop\bootcamp\git\bthuffman.github.io\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -767,38 +767,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updates to get letsencrypt https site working again." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1-style.css" />
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2-style.css" />
+    <entry file="file://$PROJECT_DIR$/documentation/milestone-1-style.css" />
+    <entry file="file://$PROJECT_DIR$/documentation/milestone-2-style.css" />
     <entry file="file://$PROJECT_DIR$/DELETE.html" />
-    <entry file="file://$PROJECT_DIR$/public_html/styles/cardslider.css" />
-    <entry file="file://$PROJECT_DIR$/public_html/styles/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/public_html/card-slider.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/test.html" />
-    <entry file="file://$PROJECT_DIR$/public_html/styles/carousel.css" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/pond.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/lake-tahoe.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/dock.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/code-b;-transparent-2-black.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/detail-oriented.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/bootstrap-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/programming.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/analytical.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/php.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/mysql.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/carousel.html" />
+    <entry file="file://$PROJECT_DIR$/styles/cardslider.css" />
+    <entry file="file://$PROJECT_DIR$/styles/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/card-slider.php" />
+    <entry file="file://$PROJECT_DIR$/documentation/test.html" />
+    <entry file="file://$PROJECT_DIR$/styles/carousel.css" />
+    <entry file="file://$PROJECT_DIR$/images/pond.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/lake-tahoe.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/dock.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/code-b;-transparent-2-black.png" />
+    <entry file="file://$PROJECT_DIR$/images/detail-oriented.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/bootstrap-4.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/programming.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/analytical.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/php.png" />
+    <entry file="file://$PROJECT_DIR$/images/mysql.png" />
+    <entry file="file://$PROJECT_DIR$/documentation/carousel.html" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xhtml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/images/angular.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/art-haus.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/canyon.jpg" />
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/TYPEWRITE.html" />
-    <entry file="file://$PROJECT_DIR$/public_html/js/TYPEWRITER.js" />
-    <entry file="file://$PROJECT_DIR$/public_html/styles/TYPEWRITER.css" />
-    <entry file="file://$PROJECT_DIR$/public_html/images/bootstrap.png" />
-    <entry file="file://$PROJECT_DIR$/public_html/index.php" />
-    <entry file="file://$PROJECT_DIR$/public_html/js/script.js" />
-    <entry file="file://$PROJECT_DIR$/public_html/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/images/angular.png" />
+    <entry file="file://$PROJECT_DIR$/images/art-haus.png" />
+    <entry file="file://$PROJECT_DIR$/images/canyon.jpg" />
+    <entry file="file://$PROJECT_DIR$/documentation/TYPEWRITE.html" />
+    <entry file="file://$PROJECT_DIR$/js/TYPEWRITER.js" />
+    <entry file="file://$PROJECT_DIR$/styles/TYPEWRITER.css" />
+    <entry file="file://$PROJECT_DIR$/images/bootstrap.png" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="1" />
@@ -813,7 +813,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/public_html/js/form-validate.js">
+    <entry file="file://$PROJECT_DIR$/js/form-validate.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -861,21 +861,21 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4646">
           <caret line="202" column="87" selection-start-line="202" selection-start-column="87" selection-end-line="202" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-2.php">
+    <entry file="file://$PROJECT_DIR$/documentation/milestone-2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/documentation/milestone-1.php">
+    <entry file="file://$PROJECT_DIR$/documentation/milestone-1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
@@ -896,7 +896,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/production.conf">
