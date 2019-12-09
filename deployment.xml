@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PublishConfigData" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
     <serverData>
-      <paths name="brandonhuffman.dev">
+      <paths name="www.brandonhuffman.dev">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
